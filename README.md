@@ -8,6 +8,3 @@ Results:
 Precision Matrix across markets:
  
 Trading Pairs:
- 
-Based on article from Jason X. Yang. I have added the entire data pipeline and preprocession along with some modifications so that you can simply execute the jupyter notebook and obtain the results in one single click.
-
