@@ -8,3 +8,4 @@ Results:
 Precision Matrix across markets:
  
 Trading Pairs:
+https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
